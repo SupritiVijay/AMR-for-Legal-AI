@@ -1,17 +1,19 @@
 # AMR-Pretraining
 
-This repository contains code for pre-training AMR (Abstract Meaning Representation) models using LegalBERT.
+Unlock the potential of pre-training AMR (Abstract Meaning Representation) models using LegalBERT with the resources provided in this repository.
 
 ## Scripts:
 
-To pre-train AMR models, run the following Jupyter notebooks:
+To initiate the pre-training of AMR models, utilize the following Jupyter notebook:
 
-- `pre-training-legalbert.ipynb`: This notebook contains the code for pre-training LegalBERT using AMR data.
+- `pre-training-legalbert.ipynb`: This [notebook](pre-training-legalbert) is your gateway to pre-training LegalBERT using AMR data.
 
 ### Instructions
 
-Before running the code, make sure to modify the following statement in the code to the appropriate path:
+Before executing the code, ensure you tailor the following statement within the notebook to the correct path:
 
+```python
+base_path = "**location_of_training_parsed_dataset**"
 ```
-base_path = "**location_of_training_parsed_dataset"
-```
+
+Replace `"**location_of_training_parsed_dataset**"` with the actual path where your training parsed dataset is located. This crucial step ensures a seamless and accurate pre-training process for your AMR models. Elevate your AMR pre-training journey with precision and ease.

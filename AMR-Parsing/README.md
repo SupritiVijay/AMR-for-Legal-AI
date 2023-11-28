@@ -1,20 +1,20 @@
 # AMR Parsing
 
-This repository contains code for AMR parsing. Before running the Jupyter notebooks, please make sure to configure the necessary path.
+Delve into the world of AMR parsing with the resources provided in this repository. Before embarking on your journey with the Jupyter notebooks, ensure a smooth experience by configuring the necessary paths.
 
 ## Configuration
 
-In each Jupyter notebook (.ipynb) file, locate the third cell and fill in the following configuration:
+In each Jupyter notebook (.ipynb) file, navigate to the third cell and complete the following configuration:
 
 ```python
 path_to_AMR3 = '**your path to AMR3.parsing.pt' #'/kaggle/input/amrpickledmodel/AMR3.parsing.pt'
 ```
 
-Make sure to replace `**your path to AMR3.parsing.pt'` with the actual path to the `AMR3.parsing.pt` file.
+Replace `**your path to AMR3.parsing.pt'` with the actual path to the `AMR3.parsing.pt` file.
 
 ## Jupyter Notebooks
 
-To perform AMR parsing, you can run the following Jupyter notebooks in the respective directories:
+To execute AMR parsing, run the following Jupyter notebooks found in their respective directories:
 
 ### Split After Parsing
 
@@ -28,6 +28,6 @@ To perform AMR parsing, you can run the following Jupyter notebooks in the respe
 - [train-gpu-nltk-splitter.ipynb](split-before-parsing/train-gpu-nltk-splitter.ipynb)
 - [validation-gpu-nltk-splitter.ipynb](split-before-parsing/validation-gpu-nltk-splitter.ipynb)
 
-Please navigate to the respective directories and execute the desired Jupyter notebook.
+Navigate to the respective directories and kickstart your AMR parsing experience by executing the desired Jupyter notebook.
 
-Note: Ensure that you have configured the path correctly as mentioned in the configuration section before running the notebooks.
+Note: Prior to running the notebooks, double-check that you have correctly configured the path as outlined in the configuration section for a seamless execution. Happy parsing!
