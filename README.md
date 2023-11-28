@@ -64,4 +64,4 @@ For detailed instructions on running the notebooks and performing specific AMR t
 
 ## Ackowledgement
 
-The AMR Evaluation for Legal Judgment Prediction repository is the official implementation of the Bachelor Thesis conducted under the supervision of Dr. Professor Daniel Martin Katz. This comprehensive toolkit is designed to facilitate research and development on Abstract Meaning Representation (AMR) tasks, specifically tailored for legal judgment prediction.
+The AMR Evaluation for Legal Judgment Prediction repository is the official implementation of the Bachelor Thesis conducted under the supervision of Dr Daniel Hershcovich. This comprehensive toolkit is designed to facilitate research and development on Abstract Meaning Representation (AMR) tasks, specifically tailored for legal judgment prediction.
